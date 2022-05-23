@@ -7,7 +7,7 @@
     - [Manual YASHE](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20YASHE.pdf)
     - [Manual ShExAuthor](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20ShExAuthor.pdf)
 # Instrucciones
-1. Abrir la herramienta asignada en su página web y borrar el ejemplo dado.
+1. Abrir la herramienta asignada en su página web y borrar el ejemplo dado (si es que lo hay).
     - [ShEx2 — Simple Online Validator](http://shex.io/webapps/shex.js/doc/shex-simple.html)
     - [Wikidata Editor](https://www.wikidata.org/wiki/Special:NewEntitySchema)
     - [YASHE](https://www.weso.es/YASHE/)
