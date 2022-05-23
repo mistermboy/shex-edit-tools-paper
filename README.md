@@ -12,8 +12,11 @@
     - [Manual ShExAuthor](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20ShExAuthor.pdf)
 6. Abrir el Mousotron y reiniciarlo (clcik derecho en en panel y reiniciar)
 7. Abrir el [PDF Tareas](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Tareas.pdf)  y comenzar con la tarea 1
-8. Cuando se finalice la tarea 1, capturar los resultados de Mousotron (captura de pantalla) y 
-rellenar el primer cuestionario de Office 365.
-6. Reiniciar Mousotron y comenzar con la tarea 2.
-7. Una vez finalizada la tarea 2, capturar los resultados de Mousotron (captura de pantalla) y 
-rellenar el primer cuestionario de Office 365
+8. Una vez finalizada la tarea 1, detener el Mousotro ( click botón on ) 
+9. Realizar una captura de pantalla del mousotron y guardarla con el nombre UOXXXXXX-1 (Siendo XXXXXX los números correspondientes a vuestro UO)
+10. Rellenar el primer cuestionario (FALTAAAAA)
+11. Una vez rellenado el primer cuestionario, reiniciar mousotron (clcik derecho en en panel y reiniciar) y comenzar con la tarea 2.
+12. Al finalizar la tarea 2, detener el Mousotro ( click botón on ) 
+13. Realizar una captura de pantalla del mousotron y guardarla con el nombre UOXXXXXX-2 (Siendo XXXXXX los números correspondientes a vuestro UO)
+14. Rellenar el segundo cuestionario (FALTAAAAA)
+15. Enviar ambas capturas a: UO252460@uniovi.es
