@@ -11,7 +11,7 @@
     - [Manual YASHE](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20YASHE.pdf)
     - [Manual ShExAuthor](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20ShExAuthor.pdf)
 6. Abrir el Mousotron y reiniciarlo (clcik derecho en en panel y reiniciar)
-7. Abrir el PDF titulado "Tareas" y comenzar con la tarea 1
+7. Abrir el [PDF Tareas](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Tareas.pdf)  y comenzar con la tarea 1
 8. Cuando se finalice la tarea 1, capturar los resultados de Mousotron (captura de pantalla) y 
 rellenar el primer cuestionario de Office 365.
 6. Reiniciar Mousotron y comenzar con la tarea 2.
