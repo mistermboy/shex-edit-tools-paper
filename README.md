@@ -16,9 +16,8 @@
 3. Abrir el [PDF Tareas](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Tareas.pdf)  y comenzar con la tarea 1
 4. Una vez finalizada la tarea 1, detener el Mousotron ( click botón on ) 
 5. Realizar una captura de pantalla del mousotron y guardarla con el nombre UOXXXXXX-1 (Siendo XXXXXX los números correspondientes a vuestro UO)
-6. Rellenar el primer cuestionario (FALTAAAAA)
 7. Una vez rellenado el primer cuestionario, reiniciar Mousotron (clcik derecho en en panel y reiniciar) y comenzar con la tarea 2.
 8. Al finalizar la tarea 2, detener el Mousotro ( click botón on ) 
 9. Realizar una captura de pantalla del Mousotron y guardarla con el nombre UOXXXXXX-2 (Siendo XXXXXX los números correspondientes a vuestro UO)
-10. Rellenar el segundo cuestionario (FALTAAAAA)
+10. Rellenar el [cuestionario](https://forms.gle/8qhTFGDW8twzEzoB6)
 11. Enviar ambas capturas a: UO252460@uniovi.es
