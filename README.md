@@ -12,7 +12,7 @@
     - [Wikidata Editor](https://www.wikidata.org/wiki/Special:NewEntitySchema)
     - [YASHE](https://www.weso.es/YASHE/)
     - [ShExAuthor](https://www.weso.es/shex-author/)
-2. Abrir el Mousotron, reiniciarlo (clcik derecho en en panel y reset counters) y pulsar el botón off para que empiece a contar.
+2. Abrir el Mousotron, reiniciarlo (click derecho en en panel y reset counters) y pulsar el botón off para que empiece a contar.
 3. Abrir el [PDF Tareas](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Tareas.pdf)  y comenzar con la tarea 1
 4. Una vez finalizada la tarea 1, detener el Mousotron ( click botón on ) 
 5. Realizar una captura de pantalla del mousotron y guardarla con el nombre UOXXXXXX-1 (Siendo XXXXXX los números correspondientes a vuestro UO)
