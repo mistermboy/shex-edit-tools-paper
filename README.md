@@ -1,7 +1,7 @@
 # Requerimientos
 - Tener instalado [Mousotron](https://www.blacksunsoftware.com/downloads.html) en vuestro equipo.
 - Haber leido el [PDF Ejemplos](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Ejemplos.pdf) y preguntado dudas en caso necesario.
-- Haber leido el manual dedicado de la herramienta asignada y preguntado dudas en caso necesario:
+- Haber leido el manual dedicado de la herramienta asignada, probado la herramienta y preguntado dudas en caso necesario:
     - [Manual ShEx2 — Simple Online Validator](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20ShEx2-%20Simple%20Online%20Validator.pdf)
     - [Manual Wikidata Editor](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20Wikidata%20Editor.pdf)
     - [Manual YASHE](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/manuales/Manual%20YASHE.pdf)
