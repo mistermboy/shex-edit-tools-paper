@@ -16,7 +16,7 @@
 3. Abrir el [PDF Tareas](https://github.com/mistermboy/shex-edit-tools-experiment/blob/main/Tareas.pdf)  y comenzar con la tarea 1
 4. Una vez finalizada la tarea 1, detener el Mousotron ( click botón on ) 
 5. Realizar una captura de pantalla del mousotron y guardarla con el nombre UOXXXXXX-1 (Siendo XXXXXX los números correspondientes a vuestro UO)
-7. Una vez rellenado el primer cuestionario, reiniciar Mousotron (clcik derecho en en panel y reset counters) y pulsar el botón off para que empiece a contar.
+7. A continuación, reiniciar Mousotron (clcik derecho en en panel y reset counters) y pulsar el botón off para que empiece a contar.
 8. Comenzar con la tarea 2.
 9. Al finalizar la tarea 2, detener el Mousotron ( click botón on ) 
 10. Realizar una captura de pantalla del Mousotron y guardarla con el nombre UOXXXXXX-2 (Siendo XXXXXX los números correspondientes a vuestro UO)
