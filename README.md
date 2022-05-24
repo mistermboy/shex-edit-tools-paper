@@ -21,4 +21,4 @@
 9. Al finalizar la tarea 2, detener el Mousotron ( click botón on ) 
 10. Realizar una captura de pantalla del Mousotron y guardarla con el nombre UOXXXXXX-2 (Siendo XXXXXX los números correspondientes a vuestro UO)
 11. Rellenar el [cuestionario](https://forms.gle/8qhTFGDW8twzEzoB6)
-12. Enviar ambas capturas a: UO252406@uniovi.es ESPECIFICAR HERRAMIENTA USADA
+12. Enviar ambas capturas a: UO252406@uniovi.es
