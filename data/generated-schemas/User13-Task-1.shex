@@ -1,0 +1,29 @@
+
+<Event> {
+  :scale @<FujitaScale> ;
+  :lengthInMiles xsd:decimal ;
+  :widthInYards xsd:decimal ;
+  :state @<USState> ;
+  :county @<County> ;
+  :source @<Source> ;
+  :beginDate xsd:dateTime;
+  :endDate xsd:dateTime;
+  :reportSource @<ReportSource> ;
+  :beginLocation @<BeginLocation> ;
+  :endLocation @<EndLocation> ;
+  :beginLatLong xsd:string ;
+  :endLatLong xsd:string ;
+  :deaths xsd:boolean ;
+  :injuries xsd:boolean ;
+  :numberOfDeaths xsd:integer ;
+  :numberOfInjuries xsd:integer . 
+
+}
+
+<FujitaScale> {}
+<County> {}
+<Source> {}
+<USState> {}
+<ReportSource> {}
+<BeginLocation> {}
+<EndLocation> {}

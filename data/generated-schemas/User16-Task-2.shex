@@ -1,0 +1,17 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+<event> {
+wdt:P31 [ wd:Q6823473] ;
+wdt:P17 [ wd:Q19829914 ] ;
+wdt:P18 [ wd:Q478798 ] ;
+wdt:P10 [ wd:Q19847637 ] ;
+wdt:P2043  . ? ;
+wdt:P2049 . ? ;
+wdt:P17 [ wd:Q19829914 ] ;
+wdt:P1880 [ wd:Q380770 ] ;
+wdt:P625 [ wd:Q104224919 ] ;
+wdt:P580 . ? ;
+wdt:P582 . ? ; 
+wdt:P2532 [ wd:Q81809 ] ; 
+}

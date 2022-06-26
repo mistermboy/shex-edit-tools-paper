@@ -1,0 +1,35 @@
+prefix : <http://example.org/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix wdt: <http://www.wikidata.org/entity/>
+
+<Event> {
+    :scale @<FujitaScale> ;
+    :lengthInMiles xsd:decimal;
+    :widthInYards xsd:integer;
+    :state [wdt:Q107390];
+:county [wdt:Q28575];
+:source @<source>;
+:beginDate xsd:dateTime;
+:endDate xsd:dateTime;
+:reportSource @<ReportSource>; 
+:beginLocation @<location>;
+:endLocation @<location>;
+:beginLatLong xsd:string;
+:endLatLong xsd:string;
+:deaths xsd:boolean;
+:injuries  xsd:boolean;
+:numberOfDeaths xsd:integer;
+:numberOfinjuries xsd:integer;
+}
+
+<FujitaScale> {
+}
+
+<source> {
+}
+
+<reportSource> {
+}
+
+<location> {
+}

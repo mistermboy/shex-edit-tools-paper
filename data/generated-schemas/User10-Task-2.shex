@@ -1,0 +1,18 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+#Ok
+<tornado> {
+  wdt:P31 [wd:Q8081] ; # instance of - tornado
+  wdt:P17 . ;          # country
+  wdt:P18 . ;          # image
+  wdt:P10 . ;          # video
+  wdt:P2043 . ;        # length
+  wdt:P2049 . ;        # width
+  wdt:P248  . ;        # state (stated in)?
+  wdt:P1880 . ;        # measurementScale
+  wdt:P625 .  ;        # coordinate location
+  wdt:P580 .  ;        # start time
+  wdt:P582 .  ;        # end time
+  wdt:P2532 . ;        # lowest atmospheric pressure
+}

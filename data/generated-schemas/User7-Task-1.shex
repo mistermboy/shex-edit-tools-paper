@@ -1,0 +1,27 @@
+:Tornado  {
+   :scale                  [:ef0 :ef1 :ef2 :ef3 :ef4 :ef5];
+  :lengthInMiles {
+    :type               [ :Measure ] ; 
+    :hasNumericalValue  xsd:double ; 
+    :hasUnit            [ :mile-Sta ]  
+  }; 
+  schema:widthInYards {
+    :type               [ :Measure ] ; 
+    :hasNumericalValue  xsd:double ; 
+    :hasUnit            [ :mile-Sta ]  
+  }; 
+  schema:state             IRI ; 
+  schema:country           IRI ; 
+  schema:source            IRI ; 
+  schema:beginDate         xsd:dateTime ; 
+  schema:endDate           xsd:dateTime ; 
+  schema:reportSource      IRI ; 
+  schema:beginLocation     IRI ; 
+  schema:endLocation       IRI ; 
+  schema:beginLatLong      xsd:decimal ; 
+  schema:endLatLong        xsd:decimal ; 
+  schema:deaths            xsd:boolean ; 
+  schema:injuries          xsd:boolean ; 
+  schema:numberOfDeaths    xsd:integer ; 
+  schema:numberOfInjuries  xsd:integer  
+}

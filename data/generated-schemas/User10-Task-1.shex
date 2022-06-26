@@ -1,0 +1,23 @@
+PREFIX : <http://example.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<Tornado> {
+    a . ;
+    :scale :EF4 ;   # Missing []
+    :lengthInMiles . ; # Incomplete
+    :widthInYards . ;   # Incomplete
+    :state . ;      
+    :country . ;
+    :source :NWSStormSurver ; # Not Ok
+    :beginDate xsd:dateTime ;
+    :endDate xsd:dateTime ;
+    :reportSource :nwsStormSurvery ; # Not Ok
+    :beginLocation :2NEMETAMORA ; # Not Ok
+    :endLocation :2NEMETAMORA ; # Not Ok
+    :beginLatLong xsd:string ;
+    :endLatLong xsd:string ;
+    :deaths . ;  # Incomplete 
+    :injuries . ; # Incomplete
+    :numberOfDeaths . ; # Incomplete
+    :numberOfInjuries .  # Incomplete
+}

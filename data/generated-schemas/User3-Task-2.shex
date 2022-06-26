@@ -1,0 +1,20 @@
+PREFIX :    <http://example.org/>
+PREFIX schema:    <http://schema.org/>
+PREFIX xsd:    <http://www.w3.org/2001/XMLSchema#>
+PREFIX wd:    <http://www.wikidata.org/entity/>
+
+:Tornado  {
+  wd:P31 		.      ;
+  wd:P17     	.      ;
+  wd:P18     	.      ;
+  wd:P10    	.      ;
+  wd:P2043      .      ;
+  wd:P2049      .      ;
+  wd:Q7275      .      ;
+  wd:P1880		.      ;
+  wd:P625		.      ;
+  wd:P580		.      ;
+  wd:P582		.      ;
+  wd:P2532		.      ;
+}
+

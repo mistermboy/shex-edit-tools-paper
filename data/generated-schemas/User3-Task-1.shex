@@ -1,0 +1,24 @@
+PREFIX :    <http://example.org/>
+PREFIX schema:    <http://schema.org/>
+PREFIX xsd:    <http://www.w3.org/2001/XMLSchema#>
+
+:Tornado IRI  {
+  :scale                  IRI             ;
+  :lengthInMiles          xsd:decimal     ;
+  schema:widthInYards     xsd:integer     ;
+  schema:state            IRI             ;
+  schema:country          IRI             ;
+  schema:source           IRI             ;
+  schema:beginDate        xsd:dateTime    ;
+  schema:endDate          xsd:dateTime    ;
+  schema:reportSource     IRI             ;
+  schema:beginLocation    IRI             ;
+  schema:endLocation      IRI             ;
+  schema:beginLatLong     xsd:string      ;
+  schema:endLatLong       xsd:string      ;
+  schema:deaths           xsd:boolean     ;
+  schema:injuries         xsd:boolean     ;
+  schema:numberOfDeaths   xsd:integer     ;
+  schema:numberOfInjuries xsd:integer     ;
+}
+

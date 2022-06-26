@@ -1,0 +1,137 @@
+{
+  "type": "Schema",
+  "start": "http://shex.io/webapps/shex.js/examples/Event",
+  "shapes": [
+    {
+      "type": "Shape",
+      "id": "http://shex.io/webapps/shex.js/examples/County"
+    },
+    {
+      "type": "Shape",
+      "id": "http://shex.io/webapps/shex.js/examples/Event",
+      "expression": {
+        "type": "EachOf",
+        "expressions": [
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/scale",
+            "valueExpr": "http://shex.io/webapps/shex.js/examples/FujitaScale"
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/lengthInMiles",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#decimal"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/widthInYards",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/state",
+            "valueExpr": "http://shex.io/webapps/shex.js/examples/State"
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/country",
+            "valueExpr": "http://shex.io/webapps/shex.js/examples/County"
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/source",
+            "valueExpr": "http://shex.io/webapps/shex.js/examples/Source"
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/beginDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/endDate",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/reportSource",
+            "valueExpr": "http://shex.io/webapps/shex.js/examples/Source"
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/beginLatLong",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#string"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/endLatLong",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#string"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/deaths",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/injuries",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/numberOfDeaths",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+          },
+          {
+            "type": "TripleConstraint",
+            "predicate": "http://example.org/numberOfInjuries",
+            "valueExpr": {
+              "type": "NodeConstraint",
+              "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Shape",
+      "id": "http://shex.io/webapps/shex.js/examples/FujitaScale"
+    },
+    {
+      "type": "Shape",
+      "id": "http://shex.io/webapps/shex.js/examples/Source"
+    },
+    {
+      "type": "Shape",
+      "id": "http://shex.io/webapps/shex.js/examples/State"
+    }
+  ],
+  "@context": "http://www.w3.org/ns/shex.jsonld"
+}

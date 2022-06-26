@@ -1,0 +1,30 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema:    <http://example.org/>
+PREFIX :    <http://example.org/>
+PREFIX wd:    <http://www.wikidata.org/entity/>
+PREFIX wdt:    <http://www.wikidata.org/prop/direct/>
+PREFIX sostst: <http://sweetontology.net/stateStorm/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+
+<tornado>  {
+  rdf:type [ :Event ] ;
+  :scale            sostst:EnhancedFujitaScale      ;
+  :lengthInMiles    xsd:double      ;
+  :widthInYards     xsd:double      ;
+  :state            .      ;
+  :country          .      ;
+  :source           .      ;
+  :beginDate        xsd:dateTime      ;
+  :endDate          xsd:dateTime      ;
+  :reportSource     .      ;
+  :beginLocation    schema:location      ;
+  :endLocation      schema:location      ;
+  :beginLatLong     xsd:string      ;
+  :endLatlong       xsd:string      ;
+  :deaths           xsd:boolean      ;
+  :injuries         xsd:boolean      ;
+  :numberOfDeaths   xsd:integer      ;
+  :numberOfInjuries xsd:integer      ;
+}
+

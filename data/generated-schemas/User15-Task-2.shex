@@ -1,0 +1,16 @@
+prefix <http://example.org>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+:tornado1 a :Event ;
+ :instanceOf true;
+ :country :Spain ;
+ :image false;
+ :video false;
+ :length 1900;
+ :width 25;
+ :state true;
+ :measurementScale true;
+ :coordinateLocation 18.17;
+ :startTime "2019-05-27T21:41:00"^^xsd:dateTime ;
+ :endTime "2019-05-27T21:41:00"^^xsd:dateTime ;
+ :lowestAthmosphericPressure: 0 .

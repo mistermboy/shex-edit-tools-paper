@@ -1,0 +1,20 @@
+
+PREFIX :     <http://example.org/>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+PREFIX wdt:  <http://www.wikidata.org/prop/direct/>
+
+
+<tornado> {
+  wdt:P31    [ wd:Q8081 ] ;  # instance of
+  wdt:P17    . ? ;  # country
+  wdt:P18    . * ;  # image
+  wdt:P10    . * ;  # video
+  wdt:P2043  . {1} ;  # length
+  wdt:P2049  . {1} ;
+  wdt:P17    . ? ;  # state
+  wdt:P1880 . ? ;
+  wdt:P625 . {2} ;
+  wdt:P580 . {1} ;
+  wdt:P582 . {1} ;
+  wdt:P2532 . ? ;
+}

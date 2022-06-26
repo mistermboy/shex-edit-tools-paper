@@ -1,0 +1,26 @@
+<Event> { 
+ :scale @<FujitaScale>;
+ :lengthInMiles xsd:decimal;
+ :widthInYards xsd:decimal;
+ :state @<State>;
+ :country @<Country>;
+ :source @<Source>;
+ :beginDate xsd:dateTime;
+ :endDate xsd:dateTime;
+ :reportSource @<Source>;
+ :beginLocation @<Location>;
+ :endLocation @<Location>;
+ :beginLatLong xsd:string;
+ :endLatLong xsd:string;
+ :deaths xsd:boolean;
+ :injuries xsd:boolean;
+ :numberOfDeaths xsd:integer;
+ :numberOfInjuries xsd:integer;
+}
+
+<FujitaScale>{}
+<State> {}
+<Country>{}
+<Source>{}
+<Location>{}
+

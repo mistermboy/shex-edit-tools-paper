@@ -1,0 +1,19 @@
+PREFIX :    <http://example.org/>
+PREFIX wd:    <http://www.wikidata.org/entity/>
+PREFIX wdt:    <http://www.wikidata.org/prop/direct/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+<tornado> {
+  wdt:P31 .* ;
+  wdt:P17 xsd:string ;
+  wdt:P18 .* ;
+  wdt:P10 .* ;
+  wdt:P2043 xsd:double ;
+  wdt:P2049 xsd:double ;
+  wdt:P1880 .* ;
+  wdt:P625 .* ;
+  wdt:P580 xsd:dateTime ;
+  wdt:P582 xsd:dateTime ;
+  wdt:P2532 .* ;
+}

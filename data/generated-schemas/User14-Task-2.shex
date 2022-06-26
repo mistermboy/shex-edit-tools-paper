@@ -1,0 +1,20 @@
+PREFIX wd:      <http://www.wikidata.org/entity/>
+PREFIX :        <http://example.org/>
+PREFIX schema:  <http://schema.org/>
+PREFIX xsd:     <http://www.w3.org/2001/XMLSchema#>
+
+
+:Tornado {
+  wd:P31    xsd:string;
+  wd:P17    xsd:string;
+  wd:P18    .;
+  wd:P10    .;
+  wd:P2049  xsd:decimal;
+  wd:P2043  xsd:decimal;  
+  :state xsd:string;
+  wd:P1880   .;   
+  wd:P580   xsd:dateTime;
+  wd:P582   xsd:dateTime;
+  wd:P2532   .
+}
+

@@ -1,0 +1,17 @@
+prefix : <http://example.org/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix wdt: <http://www.wikidata.org/entity/>
+
+
+<Event> {
+:instanceOf: wdt:Q8081;
+:county [wdt:Q28575];
+    :length xsd:decimal;
+    :width xsd:integer;
+    :state [wdt:Q107390];
+:measuramenteScale xsd:string;
+:coordinateLocation xsd:geo;
+:source xsd:string;
+:startTime xsd:time;
+:endTime xsd:time;
+}

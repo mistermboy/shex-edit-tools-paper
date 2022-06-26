@@ -1,0 +1,27 @@
+PREFIX :       <http://example.org/>
+PREFIX schema: <http://schema.org/>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+<Event> {
+  :scale @<FujitaScale>;
+  :lengthInMiles xsd:decimal;
+  :widthInYards xsd:integer;
+  :state @<State>;
+  :country @<Country>;
+  :source @<Source>;
+  :beginDate xsd:dateTime;
+  :endDate xsd:dateTime;
+  :reportSource @<Source>;
+  :beginLocation xsd:location;
+  :endLocation xsd:location;
+  :beginLatLong xsd:string;
+  :endLatLong xsd:string;
+  :deaths xsd:boolean;
+  :injuries xsd:boolean;
+  :numberOfDeaths xsd:integer;
+  :numberOfInjuries xsd:integer;
+}
+<State>{}
+<Country>{}
+<Source>{}
+<FujitaScale>{}
